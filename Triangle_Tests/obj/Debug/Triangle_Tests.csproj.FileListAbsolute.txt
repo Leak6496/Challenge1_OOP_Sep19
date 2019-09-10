@@ -1,0 +1,24 @@
+C:\Users\chhor\OneDrive\Desktop\Challenge1_OOPtoday\CIV-OO-Challenge-1-master 040919\CIV-OO-Challenge-1-master\Triangle_Tests\obj\Debug\Triangle_Tests.csprojAssemblyReference.cache
+C:\Users\chhor\OneDrive\Desktop\Challenge1_OOPtoday\CIV-OO-Challenge-1-master 040919\CIV-OO-Challenge-1-master\Triangle_Tests\obj\Debug\Triangle_Tests.csproj.CoreCompileInputs.cache
+C:\Users\chhor\OneDrive\Desktop\Challenge1_OOPtoday\CIV-OO-Challenge-1-master 040919\CIV-OO-Challenge-1-master\Triangle_Tests\bin\Debug\Triangle_Tests.dll
+C:\Users\chhor\OneDrive\Desktop\Challenge1_OOPtoday\CIV-OO-Challenge-1-master 040919\CIV-OO-Challenge-1-master\Triangle_Tests\bin\Debug\Triangle_Tests.pdb
+C:\Users\chhor\OneDrive\Desktop\Challenge1_OOPtoday\CIV-OO-Challenge-1-master 040919\CIV-OO-Challenge-1-master\Triangle_Tests\bin\Debug\Challenge1OOP.exe
+C:\Users\chhor\OneDrive\Desktop\Challenge1_OOPtoday\CIV-OO-Challenge-1-master 040919\CIV-OO-Challenge-1-master\Triangle_Tests\bin\Debug\nunit.framework.dll
+C:\Users\chhor\OneDrive\Desktop\Challenge1_OOPtoday\CIV-OO-Challenge-1-master 040919\CIV-OO-Challenge-1-master\Triangle_Tests\bin\Debug\Challenge1OOP.pdb
+C:\Users\chhor\OneDrive\Desktop\Challenge1_OOPtoday\CIV-OO-Challenge-1-master 040919\CIV-OO-Challenge-1-master\Triangle_Tests\bin\Debug\Challenge1OOP.exe.config
+C:\Users\chhor\OneDrive\Desktop\Challenge1_OOPtoday\CIV-OO-Challenge-1-master 040919\CIV-OO-Challenge-1-master\Triangle_Tests\bin\Debug\nunit.framework.xml
+C:\Users\chhor\OneDrive\Desktop\Challenge1_OOPtoday\CIV-OO-Challenge-1-master 040919\CIV-OO-Challenge-1-master\Triangle_Tests\obj\Debug\Triangle_Tests.csproj.CopyComplete
+C:\Users\chhor\OneDrive\Desktop\Challenge1_OOPtoday\CIV-OO-Challenge-1-master 040919\CIV-OO-Challenge-1-master\Triangle_Tests\obj\Debug\Triangle_Tests.dll
+C:\Users\chhor\OneDrive\Desktop\Challenge1_OOPtoday\CIV-OO-Challenge-1-master 040919\CIV-OO-Challenge-1-master\Triangle_Tests\obj\Debug\Triangle_Tests.pdb
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\Triangle_Tests\bin\Debug\Triangle_Tests.dll
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\Triangle_Tests\bin\Debug\Triangle_Tests.pdb
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\Triangle_Tests\bin\Debug\Challenge1OOP.exe
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\Triangle_Tests\bin\Debug\nunit.framework.dll
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\Triangle_Tests\bin\Debug\Challenge1OOP.pdb
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\Triangle_Tests\bin\Debug\Challenge1OOP.exe.config
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\Triangle_Tests\bin\Debug\nunit.framework.xml
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\Triangle_Tests\obj\Debug\Triangle_Tests.csprojAssemblyReference.cache
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\Triangle_Tests\obj\Debug\Triangle_Tests.csproj.CoreCompileInputs.cache
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\Triangle_Tests\obj\Debug\Triangle_Tests.csproj.CopyComplete
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\Triangle_Tests\obj\Debug\Triangle_Tests.dll
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\Triangle_Tests\obj\Debug\Triangle_Tests.pdb

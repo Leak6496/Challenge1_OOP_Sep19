@@ -1,0 +1,14 @@
+/Users/anguyen/RiderProjects/CIV-OO-Challenge-1/ShapesTest/obj/Debug/ShapesTest.csprojResolveAssemblyReference.cache
+/Users/anguyen/RiderProjects/CIV-OO-Challenge-1/ShapesTest/obj/Debug/ShapesTest.csproj.CoreCompileInputs.cache
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\ShapesTest\obj\Debug\ShapesTest.csprojAssemblyReference.cache
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\ShapesTest\obj\Debug\ShapesTest.csproj.CoreCompileInputs.cache
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\ShapesTest\bin\Debug\ShapesTest.dll
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\ShapesTest\bin\Debug\ShapesTest.pdb
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\ShapesTest\bin\Debug\Challenge1OOP.exe
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\ShapesTest\bin\Debug\nunit.framework.dll
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\ShapesTest\bin\Debug\Challenge1OOP.pdb
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\ShapesTest\bin\Debug\Challenge1OOP.exe.config
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\ShapesTest\bin\Debug\nunit.framework.xml
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\ShapesTest\obj\Debug\ShapesTest.csproj.CopyComplete
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\ShapesTest\obj\Debug\ShapesTest.dll
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge04Sep2019_SuccessVersionForUpload\CIV-OO-Challenge-1-master\ShapesTest\obj\Debug\ShapesTest.pdb
